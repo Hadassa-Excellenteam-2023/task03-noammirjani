@@ -1,1 +1,3 @@
-﻿target_sources (task03-noammirjani PRIVATE "main.cpp")
+﻿target_sources (PriorityQueue PRIVATE "main.cpp"
+									  "PriorityQueue.cpp"
+									  "Dog.cpp")
