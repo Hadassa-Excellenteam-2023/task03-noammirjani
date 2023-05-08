@@ -1,0 +1,1 @@
+﻿target_sources (task03-noammirjani PRIVATE "main.cpp")
